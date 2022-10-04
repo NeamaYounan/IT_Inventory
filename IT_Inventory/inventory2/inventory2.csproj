@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB2E551A-62CA-4F74-9B0B-CB988D039F13}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>inventory2</RootNamespace>
+    <AssemblyName>inventory2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Data.Tools.ExceptionMessageBox">
+      <HintPath>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\SqlDb\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.UI.WebControls, Version=1.0.2.226, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Web.UI.WebControls.1.0.2.226\lib\Microsoft.Web.UI.WebControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Compression.Base, Version=20.1460.0.48, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Compression.Base.20.1.0.48\lib\net46\Syncfusion.Compression.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Licensing, Version=20.1460.0.48, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Licensing.20.1.0.48\lib\net46\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.XlsIO.Base, Version=20.1460.0.48, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.XlsIO.WinForms.20.1.0.48\lib\net46\Syncfusion.XlsIO.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.XlsIO.ClientProfile, Version=20.1400.0.48, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.XlsIO.ClientProfile.20.1.0.48\lib\net40\Syncfusion.XlsIO.ClientProfile.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Z.Dapper.Plus, Version=4.0.27.0, Culture=neutral, PublicKeyToken=59b66d028979105b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Z.Dapper.Plus.4.0.27\lib\net45\Z.Dapper.Plus.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_From_Spare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_From_Spare.designer.cs">
+      <DependentUpon>Add_From_Spare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_monitor_from_spare_old_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_monitor_from_spare_old_user.designer.cs">
+      <DependentUpon>add_monitor_from_spare_old_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_New_Laptop_New_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_New_Laptop_New_User.designer.cs">
+      <DependentUpon>Add_New_Laptop_New_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_New_Desktop_New_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_New_Desktop_New_User.Designer.cs">
+      <DependentUpon>Add_New_Desktop_New_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Desktop_New_User_From_Spare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Desktop_New_User_From_Spare.Designer.cs">
+      <DependentUpon>Add_Desktop_New_User_From_Spare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_desktop_from_spare_old_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_desktop_from_spare_old_user.Designer.cs">
+      <DependentUpon>add_desktop_from_spare_old_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Hardware_Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Hardware_Options.Designer.cs">
+      <DependentUpon>Add_Hardware_Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Laptop_From_Spare_New_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Laptop_From_Spare_New_User.Designer.cs">
+      <DependentUpon>Add_Laptop_From_Spare_New_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_New_Monitor_New_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_New_Monitor_New_User.Designer.cs">
+      <DependentUpon>Add_New_Monitor_New_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_New_Monitor_From_Spare_New_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_New_Monitor_From_Spare_New_User.Designer.cs">
+      <DependentUpon>Add_New_Monitor_From_Spare_New_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Monitor_Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Monitor_Options.Designer.cs">
+      <DependentUpon>Add_Monitor_Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_New_User_Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_New_User_Options.Designer.cs">
+      <DependentUpon>Add_New_User_Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_New_Software_New_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_New_Software_New_User.Designer.cs">
+      <DependentUpon>Add_New_Software_New_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_New_Software_For_Old_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_New_Software_For_Old_User.Designer.cs">
+      <DependentUpon>Add_New_Software_For_Old_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Software_From_Spare_new_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Software_From_Spare_new_user.Designer.cs">
+      <DependentUpon>Add_Software_From_Spare_new_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Software_From_Spare_Old_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Software_From_Spare_Old_User.Designer.cs">
+      <DependentUpon>Add_Software_From_Spare_Old_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Software_Options_New_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Software_Options_New_User.Designer.cs">
+      <DependentUpon>Add_Software_Options_New_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Software_Options_Old_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Software_Options_Old_User.Designer.cs">
+      <DependentUpon>Add_Software_Options_Old_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_User_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_User_Form.Designer.cs">
+      <DependentUpon>Add_User_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conditions_Class.cs" />
+    <Compile Include="Connection_Class.cs" />
+    <Compile Include="Delete_User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete_User.designer.cs">
+      <DependentUpon>Delete_User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_by_spare_options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_by_spare_options.Designer.cs">
+      <DependentUpon>Edit_by_spare_options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Spare_Hardware.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Spare_Hardware.Designer.cs">
+      <DependentUpon>Edit_Spare_Hardware.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Form.Designer.cs">
+      <DependentUpon>Edit_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_Spare_Software.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_Spare_Software.Designer.cs">
+      <DependentUpon>Edit_Spare_Software.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Export.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Export.Designer.cs">
+      <DependentUpon>Export.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delete.Designer.cs">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="import_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="import_form.Designer.cs">
+      <DependentUpon>import_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="laptops.cs" />
+    <Compile Include="Spare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spare.Designer.cs">
+      <DependentUpon>Spare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spare_Edit_Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spare_Edit_Options.Designer.cs">
+      <DependentUpon>Spare_Edit_Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spare_Hardware.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spare_Hardware.Designer.cs">
+      <DependentUpon>Spare_Hardware.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Spare_Software.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Spare_Software.Designer.cs">
+      <DependentUpon>Spare_Software.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Undo_Software.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Undo_Software.Designer.cs">
+      <DependentUpon>Undo_Software.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transform.designer.cs">
+      <DependentUpon>Transform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Software Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Software Search.Designer.cs">
+      <DependentUpon>Software Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Name_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Name_Search.Designer.cs">
+      <DependentUpon>Name_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hardware_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hardware_Search.Designer.cs">
+      <DependentUpon>Hardware_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search_Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search_Options.Designer.cs">
+      <DependentUpon>Search_Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory_CURD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory_CURD.Designer.cs">
+      <DependentUpon>Inventory_CURD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IT_InventoryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IT_InventoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="users.cs" />
+    <EmbeddedResource Include="Add_From_Spare.resx">
+      <DependentUpon>Add_From_Spare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_monitor_from_spare_old_user.resx">
+      <DependentUpon>add_monitor_from_spare_old_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_New_Laptop_New_User.resx">
+      <DependentUpon>Add_New_Laptop_New_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_New_Desktop_New_User.resx">
+      <DependentUpon>Add_New_Desktop_New_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Desktop_New_User_From_Spare.resx">
+      <DependentUpon>Add_Desktop_New_User_From_Spare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_desktop_from_spare_old_user.resx">
+      <DependentUpon>add_desktop_from_spare_old_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Hardware_Options.resx">
+      <DependentUpon>Add_Hardware_Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Laptop_From_Spare_New_User.resx">
+      <DependentUpon>Add_Laptop_From_Spare_New_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_New_Monitor_New_User.resx">
+      <DependentUpon>Add_New_Monitor_New_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_New_Monitor_From_Spare_New_User.resx">
+      <DependentUpon>Add_New_Monitor_From_Spare_New_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Monitor_Options.resx">
+      <DependentUpon>Add_Monitor_Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_New_User_Options.resx">
+      <DependentUpon>Add_New_User_Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_New_Software_New_User.resx">
+      <DependentUpon>Add_New_Software_New_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_New_Software_For_Old_User.resx">
+      <DependentUpon>Add_New_Software_For_Old_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Software_From_Spare_new_user.resx">
+      <DependentUpon>Add_Software_From_Spare_new_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Software_From_Spare_Old_User.resx">
+      <DependentUpon>Add_Software_From_Spare_Old_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Software_Options_New_User.resx">
+      <DependentUpon>Add_Software_Options_New_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Software_Options_Old_User.resx">
+      <DependentUpon>Add_Software_Options_Old_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_User_Form.resx">
+      <DependentUpon>Add_User_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete.resx">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delete_User.resx">
+      <DependentUpon>Delete_User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_by_spare_options.resx">
+      <DependentUpon>Edit_by_spare_options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Spare_Hardware.resx">
+      <DependentUpon>Edit_Spare_Hardware.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Form.resx">
+      <DependentUpon>Edit_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_Spare_Software.resx">
+      <DependentUpon>Edit_Spare_Software.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export.resx">
+      <DependentUpon>Export.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="import_form.resx">
+      <DependentUpon>import_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spare.resx">
+      <DependentUpon>Spare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spare_Edit_Options.resx">
+      <DependentUpon>Spare_Edit_Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spare_Hardware.resx">
+      <DependentUpon>Spare_Hardware.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spare_Software.resx">
+      <DependentUpon>Spare_Software.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Undo_Software.resx">
+      <DependentUpon>Undo_Software.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transform.resx">
+      <DependentUpon>Transform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Name_Search.resx">
+      <DependentUpon>Name_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hardware_Search.resx">
+      <DependentUpon>Hardware_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search_Options.resx">
+      <DependentUpon>Search_Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory_CURD.resx">
+      <DependentUpon>Inventory_CURD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Software Search.resx">
+      <DependentUpon>Software Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="IT_InventoryDataSet.xsc">
+      <DependentUpon>IT_InventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="IT_InventoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IT_InventoryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="IT_InventoryDataSet.xss">
+      <DependentUpon>IT_InventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\.editorconfig" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\1login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\Final2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\222222.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\22222233.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\bk2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\55.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\S4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\S3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\S1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\images\Final.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel1">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\A.png" />
+    <Content Include="Resources\AUTO.png" />
+    <Content Include="Resources\AUTO1.png" />
+    <Content Include="Resources\Background.jpg" />
+    <Content Include="Resources\bg.jpg" />
+    <Content Include="Resources\bg2.jpg" />
+    <Content Include="Resources\bg3.jpg" />
+    <Content Include="Resources\bg7.jpg" />
+    <Content Include="Resources\button.png" />
+    <None Include="Resources\ccccccc.png" />
+    <Content Include="Resources\ccccccccc.png" />
+    <Content Include="Resources\cccvsf.PNG" />
+    <Content Include="Resources\cp.jpg" />
+    <Content Include="Resources\cp1.jpg" />
+    <None Include="Resources\YYYY.png" />
+    <None Include="Resources\download %281%29 %281%29.png" />
+    <Content Include="Resources\download %281%29.png" />
+    <Content Include="Resources\download %282%29.png" />
+    <Content Include="Resources\download %282%291.png" />
+    <Content Include="Resources\download %284%29.png" />
+    <Content Include="Resources\download %285%29.png" />
+    <Content Include="Resources\download %286%29.png" />
+    <None Include="Resources\download.png" />
+    <None Include="Resources\download1.png" />
+    <Content Include="Resources\F.png" />
+    <Content Include="Resources\front-shot-dual-blank-white-260nw-1730358172.png" />
+    <Content Include="Resources\GG.png" />
+    <Content Include="Resources\GG1.png" />
+    <Content Include="Resources\images %281%29.jpg" />
+    <Content Include="Resources\images %281%291.jpg" />
+    <Content Include="Resources\images %284%29.png" />
+    <Content Include="Resources\images %284%291.png" />
+    <Content Include="Resources\images %285%29 %281%29.png" />
+    <Content Include="Resources\images %285%29.png" />
+    <Content Include="Resources\images %285%291.png" />
+    <Content Include="Resources\images %286%29.png" />
+    <Content Include="Resources\images %287%29.png" />
+    <Content Include="Resources\images %288%29.png" />
+    <Content Include="Resources\images.jpg" />
+    <Content Include="Resources\images.png" />
+    <None Include="Resources\images1.png" />
+    <None Include="Resources\it2.png" />
+    <None Include="Resources\iti.png" />
+    <None Include="Resources\iti1.png" />
+    <Content Include="Resources\lcd-tv-monitor-illustration-on-260nw-76035937.png" />
+    <Content Include="Resources\login.jpg" />
+    <Content Include="Resources\login1.jpg" />
+    <Content Include="Resources\login2.jpg" />
+    <Content Include="Resources\network bg.jpg" />
+    <Content Include="Resources\nnn.jpg" />
+    <Content Include="Resources\nnn1.jpg" />
+    <Content Include="Resources\O.jpg" />
+    <Content Include="Resources\pngtree-blue-minimalistic-tech-computer-banner-poster-background-image_178087.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

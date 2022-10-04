@@ -1,0 +1,865 @@
+D:\inventory2\inventory2\bin\Debug\inventory2.exe.config
+D:\inventory2\inventory2\bin\Debug\inventory2.exe
+D:\inventory2\inventory2\bin\Debug\inventory2.pdb
+D:\inventory2\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+D:\inventory2\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+D:\inventory2\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+D:\inventory2\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+D:\inventory2\inventory2\obj\Debug\inventory2.exe
+D:\inventory2\inventory2\obj\Debug\inventory2.pdb
+D:\inventory2\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+E:\Neama\database\inventory2\inventory2\bin\Debug\inventory2.exe.config
+E:\Neama\database\inventory2\inventory2\bin\Debug\inventory2.exe
+E:\Neama\database\inventory2\inventory2\bin\Debug\inventory2.pdb
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.Form1.resources
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.exe
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.pdb
+E:\Neama\database\inventory2\inventory2\obj\Debug\inventory2.Search.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.Search.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.Add.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.Search_Options.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.Login.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.Add_User.resources
+D:\inventory2\inventory2\obj\Debug\inventory2.Search_Name.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+D:\inventory22\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+D:\inventory22\inventory2\obj\Debug\inventory2.Search_Name.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Search_Options.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Login.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Search.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+D:\inventory22\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+D:\inventory22\inventory2\obj\Debug\inventory2.exe
+D:\inventory22\inventory2\obj\Debug\inventory2.pdb
+D:\inventory22\inventory2\bin\Debug\inventory2.exe
+D:\inventory22\inventory2\bin\Debug\inventory2.pdb
+D:\inventory22\inventory2\obj\Debug\inventory2.Software_Search.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Add_Hardware.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Add_Laptop.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Add_Options.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Add_Software.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Export.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Edit.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Edit_Name.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Edit_Hard.resources
+D:\inventory22\inventory2\obj\Debug\inventory2.Edit_Hardware.resources
+D:\inventory22222\inventory2\bin\Debug\inventory2.exe
+D:\inventory22222\inventory2\bin\Debug\inventory2.pdb
+D:\inventory22222\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+D:\inventory22222\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_Desktop.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_Hardware.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_Laptop.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_Monitor.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_Options.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_Software.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Edit_Software.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Export.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Edit.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Edit_Name.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Edit_Hard.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Edit_Hardware.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Search_Name.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Search_Options.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Login.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Search.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.Software_Search.resources
+D:\inventory22222\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+D:\inventory22222\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+D:\inventory22222\inventory2\obj\Debug\inventory2.exe
+D:\inventory22222\inventory2\obj\Debug\inventory2.pdb
+E:\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+E:\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Options.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Software.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Name.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hard.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hardware.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_for_old_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Old_User_Options.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.add_from_spare_options_old_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.add_laptop_from_spare_old_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Import.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.add_New_laptop_old_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_old_user.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_Old_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+E:\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+E:\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+E:\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+E:\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+E:\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+E:\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+E:\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+E:\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+E:\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+E:\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+E:\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+E:\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+E:\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+E:\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+E:\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+E:\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+E:\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_for_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_from_spare_options_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_laptop_from_spare_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_New_laptop_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_Old_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Old_User_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Software.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Name.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hard.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hardware.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Import.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+\\10.201.136.12\IT Dep\Neama Younan\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_old_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_for_old_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_from_spare_options_old_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_laptop_from_spare_old_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_New_laptop_old_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_Old_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Old_User_Options.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Options.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Software.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Name.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hard.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hardware.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Import.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+C:\Users\User\Desktop\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_old_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_for_old_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_from_spare_options_old_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_laptop_from_spare_old_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_New_laptop_old_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_Old_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Old_User_Options.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Options.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Software.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Name.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hard.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hardware.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Import.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+E:\Neama\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_old_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_for_old_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_from_spare_options_old_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_laptop_from_spare_old_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_New_laptop_old_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_Old_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Old_User_Options.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Options.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Software.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Name.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hard.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Hardware.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Import.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\User\Desktop\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+E:\OUR PROJECT INVENTORY _IT\Edit IT_Inventory\IT_Inventort_final_20-4-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+C:\Users\User\Desktop\final IT_Inventory\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_by_spare_options.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form2.resources
+C:\Users\user\Desktop\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_by_spare_options.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form2.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+\\10.201.136.12\IT Dep\Neama Younan\16-6-2022 IT  Inventory Project\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe.config
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.exe
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\inventory2.pdb
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.SqlServer.Data.Tools.ExceptionMessageBox.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Microsoft.Web.UI.WebControls.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Licensing.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.dll
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Dapper.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.pdb
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.pdb
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\ExcelDataReader.DataSet.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.Compression.Base.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.Base.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Syncfusion.XlsIO.ClientProfile.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\System.Data.SQLite.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\bin\Debug\Z.Dapper.Plus.xml
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.AssemblyReference.cache
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.SuggestedBindingRedirects.cache
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.ResolveComReference.cache
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_From_Spare.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_monitor_from_spare_old_user.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Laptop_New_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Desktop_New_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Desktop_New_User_From_Spare.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.add_desktop_from_spare_old_user.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Hardware_Options.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Laptop_From_Spare_New_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_New_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Monitor_From_Spare_New_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Monitor_Options.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_User_Options.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_New_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_New_Software_For_Old_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_new_user.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_From_Spare_Old_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_New_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_Software_Options_Old_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Add_User_Form.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Delete_User.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_by_spare_options.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Hardware.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Form.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Edit_Spare_Software.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Export.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form1.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Form2.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.import_form.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Edit_Options.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Hardware.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Spare_Software.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Undo.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Transform.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Name.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Hardware_Search.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Search_Options.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Login.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Inventory_CURD.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Properties.Resources.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.Software_Search.resources
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.GenerateResource.cache
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CoreCompileInputs.cache
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.csproj.CopyComplete
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.exe
+F:\Final IT_Inventory 25-8-2022\Final IT_Inventory 25-5-2022\IT_Inventory\inventory2\obj\Debug\inventory2.pdb

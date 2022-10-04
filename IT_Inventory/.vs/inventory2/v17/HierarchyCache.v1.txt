@@ -1,0 +1,430 @@
+﻿++Solution 'inventory2' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:inventory2.sln
+++inventory2
+i:{00000000-0000-0000-0000-000000000000}:inventory2
+++Properties
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\
+++References
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++add_desktop_from_spare_old_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_desktop_from_spare_old_user.cs
+++Add_Desktop_New_User_From_Spare.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_desktop_new_user_from_spare.cs
+++Add_for_old_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_for_old_user.cs
+++Add_From_Spare.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_from_spare.cs
+++add_from_spare_options_old_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_from_spare_options_old_user.cs
+++Add_Hardware_Options.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_hardware_options.cs
+++Add_Laptop_From_Spare_New_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_laptop_from_spare_new_user.cs
+++add_laptop_from_spare_old_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_laptop_from_spare_old_user.cs
+++add_monitor_from_spare_old_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_monitor_from_spare_old_user.cs
+++Add_Monitor_Options.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_monitor_options.cs
+++Add_New_Desktop_New_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_desktop_new_user.cs
+++Add_New_Desktop_old_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_desktop_old_user.cs
+++Add_New_Laptop_New_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_laptop_new_user.cs
+++add_New_laptop_old_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_laptop_old_user.cs
+++Add_New_Monitor_From_Spare_New_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_from_spare_new_user.cs
+++Add_New_Monitor_New_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_new_user.cs
+++Add_New_Monitor_Old_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_old_user.cs
+++Add_New_Software_For_Old_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_software_for_old_user.cs
+++Add_New_Software_New_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_software_new_user.cs
+++Add_New_User_Options.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_user_options.cs
+++Add_Old_User_Options.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_old_user_options.cs
+++Add_Options.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_options.cs
+++Add_Software_From_Spare_new_user.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_from_spare_new_user.cs
+++Add_Software_From_Spare_Old_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_from_spare_old_user.cs
+++Add_Software_Options_New_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_options_new_user.cs
+++Add_Software_Options_Old_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_options_old_user.cs
+++Add_User_Form.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_user_form.cs
+++app.config
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\app.config
+++Conditions_Class.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\conditions_class.cs
+++Delete_User.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\delete_user.cs
+++Desktop_Edit.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\desktop_edit.cs
+++Edit.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit.cs
+++Edit_Form.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_form.cs
+++Edit_Hardware.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_hardware.cs
+++Edit_Name.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_name.cs
+++Edit_Software.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_software.cs
+++Edit_Spare_Hardware.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_spare_hardware.cs
+++Edit_Spare_Software.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_spare_software.cs
+++Export.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\export.cs
+++Form1.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\form1.cs
+++Hardware_Search.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\hardware_search.cs
+++Import.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\import.cs
+++import_form.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\import_form.cs
+++Inventory_CURD.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\inventory_curd.cs
+++IT_InventoryDataSet.xsd
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\it_inventorydataset.xsd
+++laptops.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\laptops.cs
+++Login.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\login.cs
+++Name_Search.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\name_search.cs
+++packages.config
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\packages.config
+++Program.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\program.cs
+++Search_Options.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\search_options.cs
+++Software Search.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\software search.cs
+++Spare.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare.cs
+++Spare_Edit_Options.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_edit_options.cs
+++Spare_Hardware.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_hardware.cs
+++Spare_Software.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_software.cs
+++Transform.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\transform.cs
+++Undo_Software.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\undo_software.cs
+++users.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\users.cs
+++images
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\
+++AssemblyInfo.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\assemblyinfo.cs
+++Resources.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\resources.resx
+++Settings.settings
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\settings.settings
+++Dapper
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++ExcelDataReader
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++ExcelDataReader.DataSet
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Microsoft.CSharp
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Microsoft.Office.Core
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Microsoft.Office.Interop.Excel
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Microsoft.Office.Interop.Excel1
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Microsoft.SqlServer.Data.Tools.ExceptionMessageBox
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Microsoft.Web.UI.WebControls
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Syncfusion.Compression.Base
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Syncfusion.Licensing
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Syncfusion.XlsIO.Base
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Syncfusion.XlsIO.ClientProfile
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Core
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Data
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Data.DataSetExtensions
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Data.SQLite
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Deployment
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Drawing
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.IO.Compression
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Net.Http
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Windows.Forms
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Xml
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++System.Xml.Linq
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++Z.Dapper.Plus
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:
+++add_desktop_from_spare_old_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_desktop_from_spare_old_user.designer.cs
+++add_desktop_from_spare_old_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_desktop_from_spare_old_user.resx
+++Add_Desktop_New_User_From_Spare.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_desktop_new_user_from_spare.designer.cs
+++Add_Desktop_New_User_From_Spare.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_desktop_new_user_from_spare.resx
+++Add_for_old_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_for_old_user.designer.cs
+++Add_for_old_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_for_old_user.resx
+++Add_From_Spare.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_from_spare.designer.cs
+++Add_From_Spare.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_from_spare.resx
+++add_from_spare_options_old_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_from_spare_options_old_user.designer.cs
+++add_from_spare_options_old_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_from_spare_options_old_user.resx
+++Add_Hardware_Options.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_hardware_options.designer.cs
+++Add_Hardware_Options.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_hardware_options.resx
+++Add_Laptop_From_Spare_New_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_laptop_from_spare_new_user.designer.cs
+++Add_Laptop_From_Spare_New_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_laptop_from_spare_new_user.resx
+++add_laptop_from_spare_old_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_laptop_from_spare_old_user.designer.cs
+++add_laptop_from_spare_old_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_laptop_from_spare_old_user.resx
+++add_monitor_from_spare_old_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_monitor_from_spare_old_user.designer.cs
+++add_monitor_from_spare_old_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_monitor_from_spare_old_user.resx
+++Add_Monitor_Options.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_monitor_options.designer.cs
+++Add_Monitor_Options.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_monitor_options.resx
+++Add_New_Desktop_New_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_desktop_new_user.designer.cs
+++Add_New_Desktop_New_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_desktop_new_user.resx
+++Add_New_Desktop_old_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_desktop_old_user.designer.cs
+++Add_New_Desktop_old_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_desktop_old_user.resx
+++Add_New_Laptop_New_User.designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_laptop_new_user.designer.cs
+++Add_New_Laptop_New_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_laptop_new_user.resx
+++add_New_laptop_old_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_laptop_old_user.designer.cs
+++add_New_laptop_old_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_laptop_old_user.resx
+++Add_New_Monitor_From_Spare_New_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_from_spare_new_user.designer.cs
+++Add_New_Monitor_From_Spare_New_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_from_spare_new_user.resx
+++Add_New_Monitor_New_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_new_user.designer.cs
+++Add_New_Monitor_New_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_new_user.resx
+++Add_New_Monitor_Old_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_old_user.designer.cs
+++Add_New_Monitor_Old_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_monitor_old_user.resx
+++Add_New_Software_For_Old_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_software_for_old_user.designer.cs
+++Add_New_Software_For_Old_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_software_for_old_user.resx
+++Add_New_Software_New_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_software_new_user.designer.cs
+++Add_New_Software_New_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_software_new_user.resx
+++Add_New_User_Options.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_user_options.designer.cs
+++Add_New_User_Options.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_new_user_options.resx
+++Add_Old_User_Options.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_old_user_options.designer.cs
+++Add_Old_User_Options.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_old_user_options.resx
+++Add_Options.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_options.designer.cs
+++Add_Options.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_options.resx
+++Add_Software_From_Spare_new_user.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_from_spare_new_user.designer.cs
+++Add_Software_From_Spare_new_user.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_from_spare_new_user.resx
+++Add_Software_From_Spare_Old_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_from_spare_old_user.designer.cs
+++Add_Software_From_Spare_Old_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_from_spare_old_user.resx
+++Add_Software_Options_New_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_options_new_user.designer.cs
+++Add_Software_Options_New_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_options_new_user.resx
+++Add_Software_Options_Old_User.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_options_old_user.designer.cs
+++Add_Software_Options_Old_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_software_options_old_user.resx
+++Add_User_Form.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_user_form.designer.cs
+++Add_User_Form.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\add_user_form.resx
+++Delete_User.designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\delete_user.designer.cs
+++Delete_User.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\delete_user.resx
+++Desktop_Edit.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\desktop_edit.designer.cs
+++Desktop_Edit.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\desktop_edit.resx
+++Edit.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit.designer.cs
+++Edit.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit.resx
+++Edit_Form.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_form.designer.cs
+++Edit_Form.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_form.resx
+++Edit_Hardware.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_hardware.designer.cs
+++Edit_Hardware.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_hardware.resx
+++Edit_Name.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_name.designer.cs
+++Edit_Name.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_name.resx
+++Edit_Software.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_software.designer.cs
+++Edit_Software.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_software.resx
+++Edit_Spare_Hardware.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_spare_hardware.designer.cs
+++Edit_Spare_Hardware.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_spare_hardware.resx
+++Edit_Spare_Software.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_spare_software.designer.cs
+++Edit_Spare_Software.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\edit_spare_software.resx
+++Export.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\export.designer.cs
+++Export.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\export.resx
+++Form1.designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\form1.designer.cs
+++Form1.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\form1.resx
+++Hardware_Search.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\hardware_search.designer.cs
+++Hardware_Search.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\hardware_search.resx
+++Import.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\import.designer.cs
+++Import.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\import.resx
+++import_form.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\import_form.designer.cs
+++import_form.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\import_form.resx
+++Inventory_CURD.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\inventory_curd.designer.cs
+++Inventory_CURD.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\inventory_curd.resx
+++IT_InventoryDataSet.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\it_inventorydataset.designer.cs
+++IT_InventoryDataSet.xsc
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\it_inventorydataset.xsc
+++IT_InventoryDataSet.xss
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\it_inventorydataset.xss
+++Login.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\login.designer.cs
+++Login.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\login.resx
+++Name_Search.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\name_search.designer.cs
+++Name_Search.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\name_search.resx
+++Search_Options.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\search_options.designer.cs
+++Search_Options.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\search_options.resx
+++Software Search.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\software search.designer.cs
+++Software Search.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\software search.resx
+++Spare.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare.designer.cs
+++Spare.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare.resx
+++Spare_Edit_Options.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_edit_options.designer.cs
+++Spare_Edit_Options.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_edit_options.resx
+++Spare_Hardware.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_hardware.designer.cs
+++Spare_Hardware.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_hardware.resx
+++Spare_Software.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_software.designer.cs
+++Spare_Software.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\spare_software.resx
+++Transform.designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\transform.designer.cs
+++Transform.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\transform.resx
+++Undo_Software.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\undo_software.designer.cs
+++Undo_Software.resx
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\undo_software.resx
+++1.png
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\1.png
+++11.png
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\11.png
+++1login.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\1login.jpg
+++2.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\2.jpg
+++222222.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\222222.jpg
+++22222233.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\22222233.jpg
+++55.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\55.jpg
+++bk2.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\bk2.jpg
+++Final.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\final.jpg
+++Final2.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\final2.jpg
+++S1.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\s1.jpg
+++S3.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\s3.jpg
+++S4.jpg
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\images\s4.jpg
+++Resources.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{ab2e551a-62ca-4f74-9b0b-cb988d039f13}:e:\neama\edit it_inventory\it_inventort_final_20-4-2022\it_inventory\inventory2\properties\settings.designer.cs
